@@ -1,5 +1,5 @@
 """
-tools.py — Tool functions for the AWS Cloud Assistant
+tools.py — Tool functions for the AWS Cloud Assistant 
 Tools must NEVER raise exceptions — always return strings.
 """
 from datetime import datetime
