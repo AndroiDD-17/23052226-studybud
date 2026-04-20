@@ -1,5 +1,5 @@
 """
-agent.py — Shared agent module for the AWS Cloud Assistant
+agent.py — Shared agent module for the AWS Cloud Assistant 
 Exposes the compiled LangGraph app and helper ask() function.
 """
 import os, sys
