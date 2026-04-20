@@ -1,6 +1,6 @@
 """
 capstone_streamlit.py — AWS Cloud Assistant Streamlit UI
-Run: streamlit run capstone_streamlit.py
+Run: streamlit run capstone_streamlit.py 
 """
 import streamlit as st
 import uuid
