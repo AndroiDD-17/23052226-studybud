@@ -1,5 +1,5 @@
 """
-knowledge_base.py — AWS Cloud Assistant Knowledge Base
+knowledge_base.py — AWS Cloud Assistant Knowledge Base 
 10+ documents covering all major AWS service categories.
 """
 
